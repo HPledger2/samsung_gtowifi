@@ -1,3 +1,3 @@
 # samsung_gtowifi
 soUrce
-https://opensource.samsung.com/downSrcCode
+https://opensource.samsung.com/
